@@ -32,8 +32,5 @@ export class ProductsTableComponent {
         product_name,
       });
     }
-
   }
-
-
 }
